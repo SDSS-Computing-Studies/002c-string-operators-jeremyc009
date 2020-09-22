@@ -8,6 +8,6 @@ verb = " went"
 preposition = " to"
 pronoun = " market"
 
-result = subject + verb + preposition + " the" + pronoun + "."
+result = subject + verb + preposition + pronoun + "."
 
 print(result)
