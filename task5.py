@@ -1,8 +1,8 @@
 #!python3
 
-start = "here" repeats = 4
+start = "here" 
 word = "kitty "
+num=3
+result= start + "," + num*word
 
-start + repeats*word = result
-
-  print(result)
+print(result)
