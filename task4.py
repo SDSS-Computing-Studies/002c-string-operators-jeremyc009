@@ -4,10 +4,10 @@
 # This little piggy went to market.
 
 subject = "This little piggy"
-verb = "went"
-preposition = "to"
-pronoun = "market"
+verb = " went"
+preposition = " to"
+pronoun = " market"
 
-result = subject + verb + preposition + "the" + pronoun + "."
+result = subject + verb + preposition + " the" + pronoun + "."
 
 print(result)
