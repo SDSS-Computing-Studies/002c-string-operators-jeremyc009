@@ -1,6 +1,6 @@
 #! python3
 
 noun = "dog"
-verb = " barked"
+verb = "\nbarked"
 result  = noun+verb
 print(result)
